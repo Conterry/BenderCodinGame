@@ -1,0 +1,13 @@
+C:\Users\glebo\source\repos\BenderCodinGame\BenderCodinGame\bin\Debug\netcoreapp3.1\BenderCodinGame.exe
+C:\Users\glebo\source\repos\BenderCodinGame\BenderCodinGame\bin\Debug\netcoreapp3.1\BenderCodinGame.deps.json
+C:\Users\glebo\source\repos\BenderCodinGame\BenderCodinGame\bin\Debug\netcoreapp3.1\BenderCodinGame.runtimeconfig.json
+C:\Users\glebo\source\repos\BenderCodinGame\BenderCodinGame\bin\Debug\netcoreapp3.1\BenderCodinGame.runtimeconfig.dev.json
+C:\Users\glebo\source\repos\BenderCodinGame\BenderCodinGame\bin\Debug\netcoreapp3.1\BenderCodinGame.dll
+C:\Users\glebo\source\repos\BenderCodinGame\BenderCodinGame\bin\Debug\netcoreapp3.1\BenderCodinGame.pdb
+C:\Users\glebo\source\repos\BenderCodinGame\BenderCodinGame\obj\Debug\netcoreapp3.1\BenderCodinGame.csprojAssemblyReference.cache
+C:\Users\glebo\source\repos\BenderCodinGame\BenderCodinGame\obj\Debug\netcoreapp3.1\BenderCodinGame.AssemblyInfoInputs.cache
+C:\Users\glebo\source\repos\BenderCodinGame\BenderCodinGame\obj\Debug\netcoreapp3.1\BenderCodinGame.AssemblyInfo.cs
+C:\Users\glebo\source\repos\BenderCodinGame\BenderCodinGame\obj\Debug\netcoreapp3.1\BenderCodinGame.csproj.CoreCompileInputs.cache
+C:\Users\glebo\source\repos\BenderCodinGame\BenderCodinGame\obj\Debug\netcoreapp3.1\BenderCodinGame.dll
+C:\Users\glebo\source\repos\BenderCodinGame\BenderCodinGame\obj\Debug\netcoreapp3.1\BenderCodinGame.pdb
+C:\Users\glebo\source\repos\BenderCodinGame\BenderCodinGame\obj\Debug\netcoreapp3.1\BenderCodinGame.genruntimeconfig.cache
