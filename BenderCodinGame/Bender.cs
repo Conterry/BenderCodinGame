@@ -69,22 +69,22 @@ namespace BenderCodinGame
             }
         }
 
-        public void GoDown()
+        public virtual void GoDown()
         {
             this.positionY--;
         }
 
-        public void GoLeft()
+        public virtual void GoLeft()
         {
             this.positionX--;
         }
 
-        public void GoUp()
+        public virtual void GoUp()
         {
             this.positionY++;
         }
 
-        public void GoRight()
+        public virtual void GoRight()
         {
             this.positionX++;
         }
