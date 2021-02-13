@@ -4,16 +4,16 @@ using System.Text;
 
 namespace BenderCodinGame
 {
-    class Bender
+    public class Bender
     {
         public int positionX;
         public int positionY;
         public int wayvalue;
 
-        public Bender(int posX, int posY)
+        public Bender(int positionX, int positionY)
         {
-            this.positionX = posX;
-            this.positionY = posY;
+            this.positionX = positionX;
+            this.positionY = positionY;
             this.wayvalue = 0;
         }
 
@@ -71,22 +71,22 @@ namespace BenderCodinGame
 
         public void GoDown()
         {
-
+            this.positionY--;
         }
 
         public void GoLeft()
         {
-
+            this.positionX--;
         }
 
         public void GoUp()
         {
-
+            this.positionY++;
         }
 
         public void GoRight()
         {
-
+            this.positionX++;
         }
     }
 }
