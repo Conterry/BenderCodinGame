@@ -17,8 +17,23 @@ namespace BenderCodinGame
                 map[i].Split("");
             }
 
-            Bender bender = FindBender(map, "@");
-            Console.WriteLine(bender.positionX);
+            Bender testLoopBender = FindBender(map, "@");
+            int loopPosX = testLoopBender.positionX;
+            int loopPosY = testLoopBender.positionY;
+            int LoopCount = 0;
+
+
+        }
+
+        static void Game(List<string> map, Bender bender)
+        {
+            /*
+            while (true)
+            {
+                switch (map[bender.positionY][bender.positionX])
+                {
+                }
+            }*/
         }
 
         static Bender FindBender(List<string> map, string element)
